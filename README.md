@@ -1,2 +1,2 @@
-# drick
+# Drick Framework
 O software (Drick Framework) é um pacote com vários algoritimos essenciais para um bom pentesting e uma boa analise de um sistema ou rede, o nosso software busca sempre agrupar as melhores alternativas para uma boa analise e uma rede de testes. Foi desenvolvido pela iDrick que tem como dono e fundador Wandrew Tischler que tambem é conhecido como Drick um apelido que sua mãe deu na infancia, agora trabalhamos constantemente não só neste programa mas também em outros afim de resolver os problemas de pessoas comuns como eu e você.
